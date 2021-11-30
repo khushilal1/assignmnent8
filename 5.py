@@ -1,6 +1,6 @@
 # 5. Program to Find the Sum of n Natural Numbers
 # solution 1 using while loop
-'''
+
 n=int(input("Enter the value of n up to which sum needed to calculate:\n"))
 sum=0
 i=0
@@ -8,7 +8,7 @@ while(i<n):
     i=i+1
     sum=sum+i
 print(f"The sum of {n} natural number is {sum}")
-'''
+
 
 # solution 1 using for loop
 
